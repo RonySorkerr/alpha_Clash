@@ -1,3 +1,5 @@
-function click(){
-    console.log('clicked');
+function play(){
+    hideElementById('home_screen')
+    showElementById('playground')
+     
 }
